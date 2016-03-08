@@ -1,0 +1,94 @@
+h1 {
+	font-size: 48px
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+}
+
+ul {
+	list-stype-type: none;     /*must arrange by types, prioritized*/
+}
+
+a {
+	text-docration: none;
+	color: black;
+}
+
+
+.container {
+	width: 1145px;   /*w1145 then tab*/
+	margin: 0 auto;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+
+#header {
+
+}
+
+#logo {
+	float: left;
+}
+
+#nav {
+	float: right;
+}
+
+#nav li {
+	float: left;
+}
+
+#nav a {
+	padding: 0 15px;
+	front-weight: bold;
+	text-transform: capitalize;
+}
+
+#nav .active a {
+	color: #1ED3A6;  /*can use app. sip to id colors*/
+}
+
+/* HEADER */
+
+.header {
+	text-align: center;
+	background-image: url(http://lorepixel.com/100/500/);  /*background pictures done in css*/
+}
+
+.header .wrapper {
+	margin: 100px 0;
+	padding: 100px 0;
+}
+
+.header h1 {
+		text-transform: uppercase;
+		color: #fff;
+}
+
+#breadcrumbs a {
+	text-transform: capitalize;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
